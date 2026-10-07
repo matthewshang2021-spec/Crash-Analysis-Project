@@ -1,4 +1,4 @@
-matplotlib-inline       ==0.2.2
+matplotlib              ==3.10
 numpy                   ==2.5.1
 pandas                  ==3.0.5
 prompt_toolkit          ==3.0.53
@@ -6,3 +6,5 @@ psutil                  ==7.2.2
 python-dateutil         ==2.9.0.post0
 scipy                   ==1.18.0
 scikit-learn            ==1.6.1
+meteostat               ==2.1.5
+seaborn                 ==0.13.0
